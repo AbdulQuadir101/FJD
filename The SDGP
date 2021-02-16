@@ -1,6 +1,11 @@
 public class techAmigos{
 public static void main(String []args){
 System.out.println("Start implementaion");
-
+Boolean done = false;
+While(!done){
+System.out.println("Fronted implement");
+System.out.println("backend  implement");
+System.out.println("Data science implement");
+}
 }
 }
